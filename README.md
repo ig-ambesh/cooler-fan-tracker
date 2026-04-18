@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Family Night Usage Tracker
 
 A modern React + Vite + Firebase app for tracking nightly fan and cooler usage per user.
@@ -141,3 +142,6 @@ npm run build
 
 - The app queries the latest logs for the user and computes daily, weekly, and monthly summaries client-side.
 - Each user only sees their own Firestore subcollection.
+=======
+# cooler-fan-tracker
+>>>>>>> 3e23f5e1349e164f32321439a51f4e2161b86ca1
