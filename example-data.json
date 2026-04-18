@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2026-04-12",
+    "fanStart": "22:30",
+    "fanEnd": "04:00",
+    "fanDuration": 330,
+    "coolerStart": "23:15",
+    "coolerEnd": "03:45",
+    "coolerDuration": 270
+  },
+  {
+    "date": "2026-04-13",
+    "fanStart": "23:00",
+    "fanEnd": "05:00",
+    "fanDuration": 360,
+    "coolerStart": "00:30",
+    "coolerEnd": "02:00",
+    "coolerDuration": 90
+  },
+  {
+    "date": "2026-04-14",
+    "fanStart": "21:45",
+    "fanEnd": "03:15",
+    "fanDuration": 330,
+    "coolerStart": "",
+    "coolerEnd": "",
+    "coolerDuration": 0
+  },
+  {
+    "date": "2026-04-15",
+    "fanStart": "22:00",
+    "fanEnd": "06:00",
+    "fanDuration": 480,
+    "coolerStart": "22:45",
+    "coolerEnd": "04:45",
+    "coolerDuration": 360
+  }
+]
